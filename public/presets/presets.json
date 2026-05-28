@@ -365,6 +365,45 @@
       }
     },
     {
+      "id": "smplx-male-model",
+      "label": "SMPL-X Male",
+      "description": "Bundled SMPL-X male model preset.",
+      "model": {
+        "files": [
+          {
+            "path": "presets/SMPL-X/SMPLX_MALE.npz",
+            "mapAs": "presets/smplx/SMPLX_MALE.npz"
+          }
+        ]
+      }
+    },
+    {
+      "id": "smplx-neutral-model",
+      "label": "SMPL-X Neutral",
+      "description": "Bundled SMPL-X neutral model preset.",
+      "model": {
+        "files": [
+          {
+            "path": "presets/SMPL-X/SMPLX_NEUTRAL.npz",
+            "mapAs": "presets/smplx/SMPLX_NEUTRAL.npz"
+          }
+        ]
+      }
+    },
+    {
+      "id": "smplx-female-model",
+      "label": "SMPL-X Female",
+      "description": "Bundled SMPL-X female model preset.",
+      "model": {
+        "files": [
+          {
+            "path": "presets/SMPL-X/SMPLX_FEMALE.npz",
+            "mapAs": "presets/smplx/SMPLX_FEMALE.npz"
+          }
+        ]
+      }
+    },
+    {
       "id": "smplx-amass-extended3",
       "label": "SMPL-X Male + ACCAD Male2MartialArtsExtended_c3d",
       "description": "SMPL-X male model with AMASS Extended_3_stageii motion preview.",
